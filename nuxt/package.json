@@ -1,0 +1,17 @@
+{
+  "name": "nuxt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@nuxt/ui": "^3.0.2",
+    "@vueuse/core": "^13.0.0",
+    "@vueuse/nuxt": "^13.0.0"
+  }
+}
