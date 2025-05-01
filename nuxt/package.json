@@ -10,8 +10,8 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@nuxt/ui": "^3.0.2",
-    "@vueuse/core": "^13.0.0",
+    "@nuxt/ui": "^3.1.0",
+    "@vueuse/core": "^13.1.0",
     "@vueuse/nuxt": "^13.0.0"
   }
 }
